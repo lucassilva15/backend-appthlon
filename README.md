@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.maxithlon.com/common/images/homegame1.png" width="200" />
+  <img src="https://www.maxithlon.com/common/images/homegame1.png"/>
 </p>
 
 # Backend-Appthlon
