@@ -5,8 +5,6 @@
 # Backend-Appthlon
 Backend for the Appthlon
 
-# Project Title
-
 API that connect to a web-browser game API
 
 ## Getting Started
