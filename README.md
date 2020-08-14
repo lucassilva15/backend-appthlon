@@ -1,4 +1,6 @@
-![Banner for Appthlon](https://www.maxithlon.com/common/images/homegame1.png)
+<p align="center">
+  <img src="https://www.maxithlon.com/common/images/homegame1.png" width="200" />
+</p>
 
 # Backend-Appthlon
 Backend for the Appthlon
