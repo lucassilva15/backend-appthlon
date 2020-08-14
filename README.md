@@ -42,12 +42,10 @@ run commands in terminal
 
 ```yarn``` And repeat ```yarn start```
 
-## Authors
+## Autores
 
-* **Lucas Silva** - *Initial work* - [Lucas Silva](https://github.com/lucassilva15)
-* **Daniel Leutze** - *Initial work* - [Daniel Leutze](https://github.com/leutzed)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+| [<img src="https://avatars3.githubusercontent.com/u/49292608?s=400&u=bfea57146c2451ddcc364b664a4f1c041fbe62d7&v=4" width=115><br><sub>@filipedeschamps</sub>](https://github.com/lucassilva15) | [<img src="https://avatars3.githubusercontent.com/u/55982817?s=400&u=f5737d5edc4b5e44cd510e2343cae6c5583cad65&v=4" width=115><br><sub>@lucianopf</sub>](https://github.com/leutzed) |
+| :---: | :---: |
 
 ## License
 
