@@ -34,19 +34,13 @@ backend-appthlon/
 ├── app.js
 ├── routes.js
 ├── server.js
+```
 
 ### Installing
 run commands in terminal 
 
-```
-yarn
-```
 
-And repeat
-
-```
-yarn start
-```
+```yarn``` And repeat ```yarn start```
 
 ## Authors
 
