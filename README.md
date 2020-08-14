@@ -56,7 +56,8 @@ $ yarn start
 | [<img src="https://avatars3.githubusercontent.com/u/49292608?s=400&u=bfea57146c2451ddcc364b664a4f1c041fbe62d7&v=4" width=115><br><sub>@lucassilva15</sub>](https://github.com/lucassilva15) | [<img src="https://avatars3.githubusercontent.com/u/55982817?s=400&u=f5737d5edc4b5e44cd510e2343cae6c5583cad65&v=4" width=115><br><sub>@leutzed</sub>](https://github.com/leutzed) |
 | :---: | :---: |
 
-Licensing
 
-    Licensed under MIT (https://github.com/lucassilva15/backend-appthlon/blob/master/LICENSE.md)
+## Licensing
+
+- Licensed under MIT (https://github.com/lucassilva15/backend-appthlon/blob/master/LICENSE.md)
 
