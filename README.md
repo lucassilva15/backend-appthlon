@@ -1,4 +1,4 @@
-# backend-Appthlon
+# Backend-Appthlon
 Backend for the Appthlon
 
 # Project Title
