@@ -44,7 +44,7 @@ run commands in terminal
 
 ## Autores
 
-| [<img src="https://avatars3.githubusercontent.com/u/49292608?s=400&u=bfea57146c2451ddcc364b664a4f1c041fbe62d7&v=4" width=115><br><sub>@filipedeschamps</sub>](https://github.com/lucassilva15) | [<img src="https://avatars3.githubusercontent.com/u/55982817?s=400&u=f5737d5edc4b5e44cd510e2343cae6c5583cad65&v=4" width=115><br><sub>@lucianopf</sub>](https://github.com/leutzed) |
+| [<img src="https://avatars3.githubusercontent.com/u/49292608?s=400&u=bfea57146c2451ddcc364b664a4f1c041fbe62d7&v=4" width=115><br><sub>@lucas_ds13</sub>](https://github.com/lucassilva15) | [<img src="https://avatars3.githubusercontent.com/u/55982817?s=400&u=f5737d5edc4b5e44cd510e2343cae6c5583cad65&v=4" width=115><br><sub>@daniel_leutze</sub>](https://github.com/leutzed) |
 | :---: | :---: |
 
 ## License
