@@ -5,7 +5,7 @@ import HomeController from './controllers/HomeController';
 
 const routes = new Router();
 
-routes.get('/login', LoginController.index);
+routes.post('/login', LoginController.index);
 routes.get('/home', HomeController.index);
 
 export default routes;
