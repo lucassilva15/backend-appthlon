@@ -1,11 +1,11 @@
 import { Router } from 'express';
 
-import LoginController from './controllers/login';
-import teamController from './controllers/teamController';
+import LoginController from './controllers/LoginController';
+import HomeController from './controllers/HomeController';
 
 const routes = new Router();
 
 routes.get('/login', LoginController.index);
-routes.get('/myteam', teamController.index);
+routes.get('/home', HomeController.index);
 
 export default routes;

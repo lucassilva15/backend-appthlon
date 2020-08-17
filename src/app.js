@@ -4,23 +4,21 @@ import xmlparser from 'express-xml-bodyparser';
 import routes from './routes';
 
 class App {
+  constructor() {
+    this.server = express();
 
-    constructor(){
-        this.server = express();
+    this.middlewares();
+    this.routes();
+  }
 
-        this.middlewares();
-        this.routes();
-    }
+  routes() {
+    this.server.use(routes);
+  }
 
-    routes(){
-        this.server.use(routes);
-    }
-
-    middlewares(){
-        this.server.use(express.json());
-        this.server.use(xmlparser());
-    }
-
+  middlewares() {
+    this.server.use(express.json());
+    this.server.use(xmlparser());
+  }
 }
 
 export default new App().server;
