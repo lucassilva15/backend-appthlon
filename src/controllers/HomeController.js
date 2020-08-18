@@ -13,14 +13,14 @@ class HomeController {
       if (requests[i] === 'athletes') {
         const { teamId } = await content.team;
 
-        const response = await api.get(
-          `${requests[i]}.php?teamid=${teamId[0]}`,
-          {
-            headers: {
-              Cookie: `xml=${xml}`,
-            },
-          }
-        );
+        const response = await api.get(`${requests[i]}.php`, {
+          headers: {
+            Cookie: `xml=${xml}`,
+          },
+          params: {
+            teamid: teamId[0],
+          },
+        });
 
         const data = await convertJson(response.data);
 

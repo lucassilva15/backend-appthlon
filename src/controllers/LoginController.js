@@ -3,11 +3,16 @@ import xmlToJson from '../services/xmlToJson';
 
 class LoginController {
   async index(req, res) {
-    const { user, code } = req.body;
-    if (!user || !code) {
+    const { user, scode } = req.body;
+    if (!user || !scode) {
       return res.json({ error: 'User or Code is null' });
     }
-    const response = await api.get(`login.php?user=${user}&scode=${code}`);
+    const response = await api.get('login.php', {
+      params: {
+        user,
+        scode,
+      },
+    });
 
     const dados = Object.values(response.headers);
     const str = dados[7];
